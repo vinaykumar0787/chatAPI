@@ -1,0 +1,10 @@
+################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/ChatPostgreAPI/bin/Debug/net8.0
+/ChatPostgreAPI/obj/Debug/net8.0
+/ChatPostgreAPI/obj
+/obj/Docker
+.idea/*
